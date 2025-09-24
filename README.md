@@ -1,5 +1,5 @@
 Required parts:
-- Arduino mini-PRO
+- Arduino Pro Mini
 - Buzzer piezo 24mm, f.ex. https://sklep.avt.pl/pl/products/piezo-24mm-z-generatorem-z-przewodami-165212.html
 - LED Diode
 - transistor bc337
