@@ -2,3 +2,4 @@
 
 <img width="893" height="585" alt="schema" src="https://github.com/user-attachments/assets/70c40259-ec21-4149-ab3d-9511fdc5248d" />
 
+![20250924_203701](https://github.com/user-attachments/assets/487d065a-96d5-482d-91b4-1f6ebd49557e)
